@@ -3,14 +3,12 @@ title,Title,,,DCTERMS.title,headline
 date,Date,,,DCTERMS.date,dateCreated
 subject,Subjects,true,,DCTERMS.subject,keywords
 groupensemble,Group/Ensemble,true,,,
-conductordirector,Conductor/Director,true,,,
-majorpraticipant,Major Participant,true,,,
-program,Program Pieces: Titles and Composers,,,,
+conductordirector,Conductor/Director,,,,
+majorpraticipant,Major Participant,,,,
 accompanists,Accompanists,,,,
-location,Location,,,DCTERMS.coverage,contentLocation
+location,Location,true,,DCTERMS.coverage,contentLocation
 source,Source,,,,
 identifier,Source Identifier,,,,
-type,Type,,,DCTERMS.type,
 format,Format,,,,encodingFormat
 language,Language,,,DCTERMS.language,
 rightsstatement,,,,DCTERMS.rights,license
