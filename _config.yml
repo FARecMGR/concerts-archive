@@ -20,14 +20,14 @@ source-code: https://github.com/FARecMGR/concerts-archive
 # title of site appears in banner
 title: Concert Recording Archive
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Collection Magic with Static Web Technologies
+tagline: 
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
+description: An archive of concerts and events hosted by the Grinnell College Music Department in various locations over the years.
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: grinnell; grinnell college; concerts;
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: Steph Kama-Kama
+author: farecmgr
 
 ##########
 # COLLECTION SETTINGS
@@ -51,16 +51,16 @@ metadata: archive
 # Enter name and link for your organization (replacing the name and links below)
 # These values will be used in attribution and data 
 organization-name: "Grinnell College Music Department"
-organization-link: https://cdil.lib.uidaho.edu/
+organization-link: https://www.grinnell.edu/academics/majors-concentrations/music
 # Add logo image links if you would like them to appear in banner and footer. Delete or leave blank to remove logos.
-organization-logo-banner: https://www.lib.uidaho.edu/collectionbuilder/cdil-black.png
-organization-logo-nav: https://www.lib.uidaho.edu/collectionbuilder/cdil-white.png
+organization-logo-banner: /assets/img/banner_logo.png
+organization-logo-nav: /assets/img/nav_logo.png
 
 ##########
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site
-# noindex: true 
+noindex: true 
 
 ##########
 # BUILD SETTINGS 
